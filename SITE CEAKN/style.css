@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: medium;
+ 
+}
+.cabecalho{
+    background-color: rgb(129, 219, 235);
+    color: rgb(92, 9, 71);
+    display: flex;
+    justify-content: space-around;
+    align-items: center ;
+    padding: 24px;
+}
+
+.cabecalho-imagem{
+    width: 25% ;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.imagem-Juan{
+    width: 25%;
+}
+
+.VIDA{
+    background-image: linear-gradient(rgb(129, 219, 235),#ffffff);
+    color: rgb(92, 13, 62);
+    display: flex;
+    justify-content:left ;
+    align-items: center;
+    padding: 24 px 0;
+
+}
+
+.vida-div-conteudo{
+    width: 75%;
+}
+
+.comeco-titulo{
+    padding: 24px 0;
+}
+
+.paranoia-emoji{
+   width: 24px;  ;
+}
+
+.filme-div{
+    text-align: center;
+}
+.filme-classe-1{
+    text-align: center;
+    width: 300px;
+}
+
+.FILMES{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.todos-filmes{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+
+}
+
+.rodape-imagem{
+    height: 80px;
+}
+.rodape-imagem9{
+    height: 70px;
+    
+}
+
+.rodape-imagem7{
+    height: 80px;
+}
